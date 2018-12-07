@@ -1,0 +1,74 @@
+.rectanguloheader1 {
+    height: 127px; 
+    background: #999;
+}
+.rectanguloheader2{
+    height: 127px; 
+    background: #999;
+}
+
+.img-responsive{
+     margin-top: 10px; 
+    width: 50%;
+    border-radius: 0%;
+}
+
+.btn_cerrar button{
+    margin-top: 40px;
+    padding: 8px;
+    background-color: #666666;
+    border-color: #666666;
+    color:#FFF;
+    border-radius: 100%;
+}
+
+#q3{
+    background-color: #999;
+    padding: 26.5px;
+    padding-left: 30px;
+}
+
+.rectangulo_nombre{
+    height:35px; 
+    width: 300px;
+    border-radius: 20px;
+}
+
+.btn_botones{
+    padding-left: 60px;
+}
+label{
+    padding: 5px;
+    font-size: 18px;
+}
+.btn_botones button{
+    background-color: #E96F21;
+    color:#FFF;
+    border-color: #E96F21;
+    border-radius: 4px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+#degrade_nombre{
+    background: linear-gradient(to right,white,#21E2E9, #00979C, #00979C);
+     margin-top: 45px;
+}
+
+footer{
+    margin-top: 50px; 
+}
+.rectangulo_final {
+    height: 100px;
+    border-right-color: #999999;
+}
+#degrade3{
+    background: linear-gradient(to right,white,#999999, #999999,white);
+}
+
+a{
+    color:black;
+    padding-top: 5px;
+}

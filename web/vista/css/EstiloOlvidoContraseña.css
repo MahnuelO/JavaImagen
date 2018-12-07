@@ -1,0 +1,84 @@
+.header{
+    padding: 10px;
+    height: 125px;
+}
+.rectangulo1 {
+    float: right;
+    width: 560px; 
+    height: 60px; 
+    border-radius: 4px;
+    background: #E96F21;
+}
+.rectangulo2 {
+    float: left;
+    width: 560px; 
+    height: 60px; 
+    border-radius: 4px;
+    background: #E96F21;
+    padding-top: 2px;
+}
+#degrade1{
+    background: linear-gradient(to right,#E96F21,#E96F21, white); 
+}
+#degrade2{
+    background: linear-gradient(to left,#E96F21,#E96F21, white); 
+}
+.imagen_logo{
+    float: right;
+/*    padding-left: 160px;*/
+}
+.nombre{
+    padding-top: 5px;
+}
+.btn_registrarse {
+    padding: 15px;
+    float: right;
+}
+.btn_registrarse button{
+    background-color: #666666;
+    border-color: #666666;
+    color:#FFF;
+    border-radius: 4px;
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 15px;
+}
+.contenido{
+    padding-top: 120px;
+    padding-bottom: 200px;
+}
+.formilario_olvidoC{
+    float: left;
+    right: 10px;
+    padding-top: 5px;
+    padding-left: 600px;
+}
+input{
+    margin: 8px 0px;
+    border-radius: 4px;
+}
+#btn_guardar{
+    padding-left: 120px;
+}
+#btn_guardar button{
+    background-color: #E96F21;
+    color:#FFF;
+    border-color: #E96F21;
+    border-radius: 4px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.footer{
+    height: 105px;
+    padding-top: 190px;
+}
+.rectangulo_final {
+    height: 100px;
+    border-radius: 20px;
+    border-right-color: #999999;
+}
+#degrade3{
+    background: linear-gradient(to right,white,#999999, #999999);
+}

@@ -1,0 +1,27 @@
+#mensaje{
+    background-color: #ED9C69;
+    //con este ya te deberia aparecer el color
+    
+/*    width: 600px;
+    margin: auto;
+    margin-top: 10px;
+    */
+    border-bottom: 0px solid #fff;
+    border-left:  0px solid #fff;
+    border-right:  0px solid #fff;
+    //border-top:  0px solid #fff;
+    padding-left: 0px;
+    padding-right: 0px; 
+    padding-top: 2px;
+}
+
+#nombre{
+    margin-left: 489px;
+    margin-right: 596px;
+    
+}
+/*#fondo{
+   background-color: #ED9C69; 
+}*/
+
+

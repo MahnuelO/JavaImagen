@@ -1,0 +1,147 @@
+/*.container{
+    background-color: #E96F21;
+}*/
+
+.rectangulo1 {
+    margin-top: 50px;
+    height: 70px; 
+    border-radius: 4px;
+    background: #E96F21;
+}
+.rectangulo2 {
+    margin-top: 50px;
+    height: 70px; 
+    border-radius: 4px;
+    background: #E96F21;
+}
+#degrade1{
+    background: linear-gradient(to right,#E96F21,#E96F21, white);
+}
+#degrade2{
+    background: linear-gradient(to left,#E96F21,#E96F21, white); 
+}
+
+.btn_registrarse button{
+    margin-top: 20px;
+    padding: 5px;
+    background-color: #666666;
+    border-color: #666666;
+    color:#FFF;
+    border-radius: 4px;
+}
+
+#btnIrIniciarSesion{
+    display: none;
+}
+
+.main{
+    margin-top: 10px;
+    /*    background-color: #00979C;*/
+}
+
+.img-responsive{
+      margin-top: 10px; 
+    display: block;
+    max-width: 100%;
+}
+
+.jumbotron{
+    margin-top: -60px;
+    padding: 20px;
+    background-color: #ED9C69;
+}
+
+.btn_InicioSesion{
+    padding: 4px;
+}
+.btn_InicioSesion button{
+    background-color: #E96F21;
+    border-color: #E96F21;
+    color: #FFF;
+    border-radius: 8px;
+    padding: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+label{
+    font-size: 15px;
+}
+
+#menu{
+    height: 75px;
+    border-bottom-color: #E96F21;
+}
+
+li a {
+    color: white;
+    text-align: left;
+    padding: 10px 10px;
+    text-decoration: none;  
+    font-size: 15px;
+}
+
+ul{
+    background-color: #999999;
+}
+
+footer{
+    margin-top: 110px; 
+}
+.rectangulo_final {
+    height: 100px;
+    border-right-color: #999999;
+}
+#degrade3{
+    background: linear-gradient(to right,white,#999999, #999999,white);
+}
+
+a{
+    color:black;
+    padding-top: 5px;
+}
+
+
+/*---------------ESTILOS--REGISTRAR--CUENTA---------------------------------------------------*/
+
+#idImagen{
+    margin-top: 45px;
+    margin-left: 30px;
+    width: 104%;
+    height: 58%; 
+}
+#id_asterisco{
+    color: red;
+}
+
+.btn_botones button{
+    background-color: #E96F21;
+    color:#FFF;
+    border-color: #E96F21;
+    border-radius: 4px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.pull-left {
+  float: left !important;
+}
+.pull-right {
+  float: right !important;
+}
+
+#aMas{
+    color:#FFF;
+}
+#id_categoria_licencia_conduccion{
+    width: 100px;
+    height: 100px;
+}
+
+/*---------------ESTILOS--ESTUDIOS---------------------------------------------------*/
+
+.btnExaminar{
+    background-color: #E87022;
+    color:#FFF;    
+}

@@ -1,0 +1,29 @@
+.header{
+    height: 80px;
+    padding-top: 5px;
+/*    background: aqua;*/
+}
+.encabezado{
+    height: 70px;
+    background-color: #999999;
+    opacity: 0.5;
+    filter: alpha(opacity=60);
+}
+.rectangulo_nombre{
+    height:35px; 
+    width: 300px;
+    float:right;
+    border-radius: 20px;
+}
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #ED9C69;
+}
+li a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+}

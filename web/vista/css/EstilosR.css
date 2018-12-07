@@ -1,0 +1,87 @@
+/*#t1{
+ background-color:#00979C;    
+}
+#t2{
+ background-color: #fcf8e3;    
+}
+#t3{
+ background-color: #8a6d3b;
+}
+#t4{
+ background-color: #ce8483;    
+}
+#t5{
+ background-color:#ce8483;    
+}
+#t6{
+ background-color: #c4e3f3;    
+}
+#t7{
+ background-color: #21E2E9;
+}
+#t8{
+ background-color: #3c763d;    
+}
+#t9{
+ background-color:#00979C;    
+}
+#t10{
+ background-color: #fcf8e3;    
+}
+#t11{
+ background-color: #8a6d3b;
+}
+#t12{
+ background-color:#ce8483;    
+}
+#t13{
+ background-color: #c4e3f3;    
+}
+#t14{
+ background-color: #21E2E9;
+}
+#t15{
+ background-color: #3c763d;    
+}
+#t16{
+ background-color:#00979C;    
+}
+*/#t17{
+ background-color: #8a6d3b;
+}
+#t18{
+ background-color:#ce8483;    
+}
+#t19{
+ background-color: #c4e3f3;    
+}
+
+/*.btn-file {
+    position: relative;
+    overflow: hidden;
+}*/
+/*.btn-file input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 100px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    outline: none;
+    background: white;
+    cursor: inherit;
+    display: block;
+}*/
+
+/*.uploader label {
+  cursor: pointer;
+  margin: 0;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  right: 0;
+  background: #c3e3fc url('https://www.interactius.com/wp-content/uploads/2017/09/folder.png') no-repeat center;
+ ----------------------ICONOS  }*/ 
